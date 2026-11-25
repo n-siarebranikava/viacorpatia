@@ -1,0 +1,19 @@
+{
+    "name": "student/as",
+    "description": "wk",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Student\\As\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Student Politechniki",
+            "email": "student@pollub.pl"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.13"
+    }
+}
